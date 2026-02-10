@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Keep Tryin'",
+  "base_artist": "宇多田ヒカル",
+  "createdAt": "2026-02-10T14:14:40.715556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Keep Tryin'",
+      "artist": "Ugly Kid Joe",
+      "has_synced": true,
+      "path": "select/01_I'll_Keep_Tryin'_Ugly_Kid_Joe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keep Tryin'",
+      "artist": "Groove Theory",
+      "has_synced": false,
+      "path": "select/02_Keep_Tryin'_Groove_Theory.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep Tryin'",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_Keep_Tryin'_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keep Tryin'",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/04_Keep_Tryin'_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep Tryin'",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/05_Keep_Tryin'_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Keep Tryin'",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/06_Keep_Tryin'_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keep Tryin'",
+      "artist": "Groove Theory",
+      "has_synced": true,
+      "path": "select/07_Keep_Tryin'_Groove_Theory.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keep Tryin'",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/08_Keep_Tryin'_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Keep Tryin' (acoustic Version)",
+      "artist": "Ella Mae Bowen",
+      "has_synced": false,
+      "path": "select/09_Keep_Tryin'_(acoustic_Version)_Ella_Mae_Bowen.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Keep Tryin' (Remastered 2018)",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/10_Keep_Tryin'_(Remastered_2018)_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Keep Tryin' (2014 Remastered)",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/11_Keep_Tryin'_(2014_Remastered)_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I’ll Keep Tryin’",
+      "artist": "Ugly Kid Joe",
+      "has_synced": true,
+      "path": "select/12_I’ll_Keep_Tryin’_Ugly_Kid_Joe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Keep Tryin'",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/13_Keep_Tryin'_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Keep Tryin'",
+      "artist": "Ugly Kid Joe",
+      "has_synced": true,
+      "path": "select/14_I'll_Keep_Tryin'_Ugly_Kid_Joe.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Keep Tryin'",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/15_Keep_Tryin'_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Keep Tryin'",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/16_Keep_Tryin'_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Keep Tryin'",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Keep_Tryin'_宇多田_ヒカル.txt"
+    }
+  ]
+}
